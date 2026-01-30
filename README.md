@@ -11,3 +11,7 @@ Day 4: Matrix multiplication, dot products, and linear algebra with NumPy. Essen
 Day 5:   
 
 
+
+
+.
+
