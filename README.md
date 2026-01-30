@@ -8,6 +8,6 @@ Day 3: Math, stats, and random functions in NumPy. The real magic behind fast op
 
 Day 4: Matrix multiplication, dot products, and linear algebra with NumPy. Essential ML foundations! 💡 #MachineLearning"
 
-Day 5:
+Day 5:   
 
 
