@@ -10,6 +10,8 @@ Day 4: Matrix multiplication, dot products, and linear algebra with NumPy. Essen
 
 Day 5: Day 5: Stepped into Pandas today! DataFrames just made life easier 😄 #Pandas #DataAnalysis
 
+Day 6: 
+
 
 
 
