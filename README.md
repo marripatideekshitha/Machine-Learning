@@ -10,7 +10,7 @@ Day 4: Matrix multiplication, dot products, and linear algebra with NumPy. Essen
 
 Day 5: Stepped into Pandas today! DataFrames just made life easier #Pandas #DataAnalysis
 
-Day 6: 
+Day 6: Clean data = strong models. Learned handling missing values & duplicates. 🧹📊 #DataCleaning
 
 
 
