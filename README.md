@@ -6,9 +6,9 @@ Day 2: Learning how NumPy handles indexing, slicing, and broadcasting. #NumPy #D
 
 Day 3: Math, stats, and random functions in NumPy. The real magic behind fast operations.#Python #NumPy"
 
-Day 4: Matrix multiplication, dot products, and linear algebra with NumPy. Essential ML foundations! 💡 #MachineLearning"
+Day 4: Matrix multiplication, dot products, and linear algebra with NumPy. Essential ML foundations! #MachineLearning"
 
-Day 5: Day 5: Stepped into Pandas today! DataFrames just made life easier 😄 #Pandas #DataAnalysis
+Day 5: Stepped into Pandas today! DataFrames just made life easier #Pandas #DataAnalysis
 
 Day 6: 
 
