@@ -12,7 +12,7 @@ Day 5: Stepped into Pandas today! DataFrames just made life easier #Pandas #Data
 
 Day 6: Clean data = strong models. Learned handling missing values & duplicates. #DataCleaning
 
-Day 7: GroupBy, merge, join — Pandas is insanely powerful!
+Day 7: GroupBy, merge, join — Pandas is insanely powerful.
 
 Day 8: First step of any project — understand the data. Shape, info, stats… everything matters!#EDA
 
