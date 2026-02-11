@@ -22,5 +22,6 @@ Day 8: First step of any project — understand the data. Shape, info, stats… 
 
 
 
+
 .
 
